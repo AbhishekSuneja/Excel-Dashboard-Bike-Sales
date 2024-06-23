@@ -1,5 +1,2 @@
 # Excel-Dashboard-Bike-Sales
-Bike sales analysis using advanced features in Excel. | Insights, Trends, Data visualization |
-For Commute distance up to 1 mile, more bikes were purchased.
-People with age above have more preference to cars than bikes.
-People with professional occupation tends to have more no of cars compared to other occupations.
+This Power BI report offers a comprehensive analysis of bike sales data, showcasing key insights through interactive visualizations. Utilizing advanced Excel functionalities like Pivot Tables and Pivot Charts, the dashboard provides a deep dive into various factors affecting bike sales. Key performance indicators such as average income, commute distance, and car ownership are analyzed across different demographics and regions. The use of slicers for dynamic filtering enhances interactivity, allowing users to explore data from multiple angles and make informed decisions. This project highlights proficiency in data analysis and visualization tools, demonstrating how Excel can be leveraged to drive business insights and optimize decision-making processes.
